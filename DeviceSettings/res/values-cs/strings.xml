@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nastavní Galaxy S II</string>
+
+    <string name="category_screen_title">Obrazovka</string>
+    <string name="screen_colors_title">Barvy</string>
+    <string name="mdnie_scenario_title_head">Scénář</string>
+    <string name="mdnie_scenario_summary_head">Nastavit mDNIe scénář</string>
+    <string name="mdnie_mode_title_head">Režim</string>
+    <string name="mdnie_mode_summary_head">Nastvit mDNIe režim</string>
+    <string name="mdnie_negative_title_head">Negativní režim</string>
+    <string name="mdnie_negative_summary_head">Zapnout/vypnout invertované barvy</string>
+    <string name="mdnie_outdoor_title_head">Venkovní režim</string>
+    <string name="mdnie_outdoor_summary_head">Zapnout/vypnout venkovní režim</string>
+    <string name="panel_gamma_title_head">Gama obrazovky</string>
+    <string name="panel_gamma_summary_head">Nastavit gama hodnotu obrazovky</string>
+
+    <string name="touchscreen_subcat_title">Dotyková obrazovka</string>
+    <string name="touchscreen_sensitivity_title_head">Citlivost dotyku</string>
+    <string name="touchscreen_sensitivity_summary_head">Nastavit citlivost dotykového panelu</string>
+
+    <string name="touchkey_subcat_title">Doteková tlačítka</string>
+    <string name="touchkey_light_title_head">Zapnout podsvícení tlačítek</string>
+    <string name="touchkey_light_summary_head">Rozsvítit dotyková tlačítka při zapnuté obrazovce</string> 
+    <string name="touchkey_timeout_title_head">Čas podsvícení</string>
+    <string name="touchkey_timeout_summary_head">Prodleva před vypnutím podsvícení po dotyku</string>
+
+    <string name="category_sensors_title">Senzory</string>
+    <string name="accelerometer_subcat_title">Akcelerometr</string>
+    <string name="use_accelerometer_calibration_title_head">Použít kalibrovaná data</string>
+    <string name="use_accelerometer_calibration_summary_head">Použít kalibrované hodnoty akcelerometru. Po vybrání této volby je nutné provést kalibraci!</string>
+    <string name="calibrate_accelerometer_title_head">Kalibrovat</string>
+    <string name="calibrate_accelerometer_summary_head">Položit telefon na hladký rovný povrch a stisknout toto pro kalibeaci</string>
+    <string name="accelerometer_dialog_head">Kalibrace dokončena</string>
+    <string name="accelerometer_dialog_message">Senzor byl úspěčně zkalibrován.</string>
+
+    <string name="category_haptic_title">Hmatový</string>
+    <string name="vibrator_subcat_title">Vibrace</string>
+    <string name="vibrator_intensity_title_head">Intenzita vibrace</string>
+    <string name="vibrator_intensity_summary_head">Nastavit intenzitu vibrací</string>
+
+    <string name="category_radio_title">Radio</string>
+    <string name="hspa_title_head">HSPA</string>
+    <string name="hspa_summary_head">Zapnout HSDPA/HSUPA</string>
+
+    <string name="category_dock_title">Kolébka</string>
+    <string name="dockaudio_subcat_title">Zvuk</string>
+    <string name="use_dock_audio_title_head">Použít zvuk přes USB v kolébce</string>
+    <string name="use_dock_audio_summary_head">Použít pasivní zvukový výstup v kolébce</string>
+</resources>
