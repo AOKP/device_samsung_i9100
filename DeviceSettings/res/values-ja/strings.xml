@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Galaxy S II 設定</string>
+
+    <string name="category_screen_title">スクリーン</string>
+    <string name="screen_colors_title">カラー</string>
+    <string name="mdnie_scenario_title_head">シナリオ</string>
+    <string name="mdnie_scenario_summary_head">mDNIeシナリオを設定する</string>
+    <string name="mdnie_mode_title_head">モード</string>
+    <string name="mdnie_mode_summary_head">mDNIeモードを設定する</string>
+    <string name="mdnie_negative_title_head">ネガティブモード</string>
+    <string name="mdnie_negative_summary_head">色を反転する</string>
+    <string name="mdnie_outdoor_title_head">アウトドアモード</string>
+    <string name="mdnie_outdoor_summary_head">屋外使用に合わせる</string>
+    <string name="panel_gamma_title_head">スクリーンガンマ</string>
+    <string name="panel_gamma_summary_head">スクリーンガンマ値を設定する</string>
+
+    <string name="touchscreen_subcat_title">タッチスクリーン</string>
+    <string name="touchscreen_sensitivity_title_head">タッチ感度</string>
+    <string name="touchscreen_sensitivity_summary_head">タッチパネルの感度を設定する</string>
+
+    <string name="touchkey_subcat_title">タッチキー</string>
+    <string name="touchkey_light_title_head">バックライト</string>
+    <string name="touchkey_light_summary_head">スクリーンオン時にタッチキーを点灯する</string> 
+    <string name="touchkey_timeout_title_head">バックライト点灯時間</string>
+    <string name="touchkey_timeout_summary_head">バックライト点灯時間を設定する</string>
+
+    <string name="category_sensors_title">センサー</string>
+    <string name="accelerometer_subcat_title">加速度センサー</string>
+    <string name="use_accelerometer_calibration_title_head">キャリブレーションデータを使用</string>
+    <string name="use_accelerometer_calibration_summary_head">加速度センサーのキャリブレーション値を使用する。チェック後キャリブレーションしてください。</string>
+    <string name="calibrate_accelerometer_title_head">キャリブレーション</string>
+    <string name="calibrate_accelerometer_summary_head">電話機を水平なところに置いて、キャリブレーションする</string>
+    <string name="accelerometer_dialog_head">キャリブレーション完了</string>
+    <string name="accelerometer_dialog_message">センサーのキャリブレーションに成功しました</string>
+
+    <string name="category_haptic_title">振動フィードバック</string>
+    <string name="vibrator_subcat_title">バイブレーター</string>
+    <string name="vibrator_intensity_title_head">バイブレーター強度</string>
+    <string name="vibrator_intensity_summary_head">バイブレーター強度を設定する</string>
+
+    <string name="category_radio_title">ラジオ</string>
+    <string name="hspa_title_head">HSPA</string>
+    <string name="hspa_summary_head">HSDPA/HSUPAを有効にする</string>
+
+    <string name="category_dock_title">ドック</string>
+    <string name="dockaudio_subcat_title">オーディオ</string>
+    <string name="use_dock_audio_title_head">ドックのUSBオーディオを使用</string>
+    <string name="use_dock_audio_summary_head">ドックのパッシブオーディオ出力を使用する</string>
+</resources>
