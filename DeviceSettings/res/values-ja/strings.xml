@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Galaxy S II 設定</string>
+    <string name="app_name">デバイス設定</string>
 
     <string name="category_screen_title">スクリーン</string>
     <string name="screen_colors_title">カラー</string>
