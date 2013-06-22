@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Galaxy S II Beállítások</string>
+
+    <string name="category_screen_title">Kijelző</string>
+    <string name="screen_colors_title">Színek</string>
+    <string name="mdnie_scenario_title_head">Megjelenítés</string>
+    <string name="mdnie_scenario_summary_head">mDNIe megjelenítési beállítások</string>
+    <string name="mdnie_mode_title_head">Üzemmód</string>
+    <string name="mdnie_mode_summary_head">mDNIe üzemmódok</string>
+    <string name="mdnie_negative_title_head">Negatív üzemmód</string>
+    <string name="mdnie_negative_summary_head">Fordított színek ki/be</string>
+    <string name="mdnie_outdoor_title_head">Kültéri üzemmód</string>
+    <string name="mdnie_outdoor_summary_head">Kültéri üzemmód Ki/Be</string>
+    <string name="panel_gamma_title_head">Gamma érték</string>
+    <string name="panel_gamma_summary_head">Képernyő gamma értékének beállítása</string>
+
+    <string name="touchscreen_subcat_title">Érintőképernyő</string>
+    <string name="touchscreen_sensitivity_title_head">Érzékenység</string>
+    <string name="touchscreen_sensitivity_summary_head">Érintőképernyő érzékenységének beállítása</string>
+
+    <string name="touchkey_subcat_title">Érintő gombok</string>
+    <string name="touchkey_light_title_head">Gombok háttérvilágítása</string>
+    <string name="touchkey_light_summary_head">Kapcsolja be a gombok háttérvilágítását</string> 
+    <string name="touchkey_timeout_title_head">Háttérvilágítás</string>
+    <string name="touchkey_timeout_summary_head">Háttérvilágítás késleltetésének beállítása</string>
+
+    <string name="category_sensors_title">Érzékelők</string>
+    <string name="accelerometer_subcat_title">Gyorsulásmérő</string>
+    <string name="use_accelerometer_calibration_title_head">Gyorsulásmérő kalibrálása</string>
+    <string name="use_accelerometer_calibration_summary_head">Tegye a telefont egy sima felületre és nyomja meg a kalibráció gombot!</string>
+    <string name="calibrate_accelerometer_title_head">Kalibrálás</string>
+    <string name="calibrate_accelerometer_summary_head">A telefon sima felületen van, nyomja meg a kalibráció gombot.</string>
+    <string name="accelerometer_dialog_head">Kalibráció befejeződött</string>
+    <string name="accelerometer_dialog_message">Érzékelő sikeresen beállítva.</string>
+
+    <string name="category_haptic_title">Érintési visszajelzés</string>
+    <string name="vibrator_subcat_title">Rezgés</string>
+    <string name="vibrator_intensity_title_head">Rezgés erőssége</string>
+    <string name="vibrator_intensity_summary_head">Rezgés erősségének beállítása</string>
+
+    <string name="category_radio_title">Rádió</string>
+    <string name="hspa_title_head">HSPA</string>
+    <string name="hspa_summary_head">HSDPA/HSUPA Engedélyezése</string>
+
+    <string name="category_dock_title">Dokkoló</string>
+    <string name="dockaudio_subcat_title">Hang</string>
+    <string name="use_dock_audio_title_head">USB dokkoló hangja</string>
+    <string name="use_dock_audio_summary_head">Passzív hangkimenet használata a bölcsőben</string>
+</resources>
