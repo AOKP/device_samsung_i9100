@@ -1,4 +1,4 @@
-
+#MM Bringup for i9100
 # Boot animation
 TARGET_SCREEN_HEIGHT := 800
 TARGET_SCREEN_WIDTH := 480
