@@ -17,7 +17,7 @@
 # This variable is set first, so it can be overridden
 # by BoardConfigVendor.mk
 
--include device/samsung/galaxys2-common/BoardCommonConfig.mk
+-include device/samsung/i9100/galaxys2-common/BoardCommonConfig.mk
 
 TARGET_BOARD_INFO_FILE := device/samsung/i9100/board-info.txt
 
