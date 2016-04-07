@@ -17,21 +17,23 @@
 # Release name
 PRODUCT_RELEASE_NAME := GT-I9100
 
-# Bootanimation
+# Boot animation
 TARGET_SCREEN_HEIGHT := 800
 TARGET_SCREEN_WIDTH := 480
+TARGET_BOOTANIMATION_HALF_RES := false
 
-# Inherit some common CM stuff.
-$(call inherit-product, vendor/cm/config/common_full_phone.mk)
+# Inherit some common AOKP stuff.
+$(call inherit-product, vendor/aokp/configs/common_full_phone.mk)
 
 # Inherit device configuration
 $(call inherit-product, device/samsung/i9100/full_i9100.mk)
 
-# Device identifier. This must come after all inclusions
+## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := i9100
-PRODUCT_NAME := cm_i9100
-PRODUCT_BRAND := Samsung
-PRODUCT_MODEL := GT-I9100
+PRODUCT_NAME := aokp_i9100
+PRODUCT_BRAND := samsung
+PRODUCT_MODEL := GT-i9100
+PRODUCT_MANUFACTURER := Samsung
 
 # Set build fingerprint / ID / Prduct Name ect.
 PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=GT-I9100 TARGET_DEVICE=GT-I9100 BUILD_FINGERPRINT=samsung/GT-I9100/GT-I9100:4.1.2/JZO54K/I9100XWMS2:user/release-keys PRIVATE_BUILD_DESC="GT-I9100-user 4.1.2 JZO54K I9100XWMS2 release-keys"
